@@ -3,7 +3,7 @@
 ## The main goad of this app is to advertise and sell beers. 
 
 * Admin can CRUD all products in the company and check pending orders. 
-* All user can see list of products, each product's detail and filter them by name, category or price. Beside, hey can add chosen products to their shopping cart and checkout.
+* All user can see list of products, each product's detail and filter them by name, category or price. Beside, they can add chosen products to their shopping cart and checkout.
 * Moreover, users can signup, login, logout their account, update their profile and their wishlist.
 
 [Demo](https://bear-beer-co.herokuapp.com/)
